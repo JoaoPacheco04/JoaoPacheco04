@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello! I'm João 👋
 
-<!--
-**JoaoPacheco04/JoaoPacheco04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jo%C3%A3o-pacheco-15118a245/))
 
-Here are some ideas to get you started:
+![JoaoPacheco04 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPacheco04&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+<div style="display: incline_block">
+    <img align= "center" alt = "Phyton"src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white "/>
+    <img align= "center"  src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align= "center" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align= "center" src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align= "center" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+</div>
+
