@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pacheco-15118a245/)
 
-![JoaoPacheco04 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPacheco04&show_icons=true&theme=transparent)
+![JoaoPacheco04 GitHub stats](https://github-readme-stats-joaopacheco04.vercel.app/api?username=JoaoPacheco04&show_icons=true&theme=transparent)
+
 
 
 ## Technologies
